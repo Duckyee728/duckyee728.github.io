@@ -19,7 +19,7 @@ Please feel free to contact me at [zyzheng@whu.edu.cn](mailto:zyzheng@whu.edu.cn
 # 🔥 News
 
 - *2026*: **ResAD** was accepted to CVPR 2026.
-- *2025*: **UniRS** was accepted to IEEE Transactions on Geoscience and Remote Sensing (TGRS).
+- *2025*: **UniRS** was accepted to IEEE TGRS.
 
 <!-- # 📝 Publications -->
 
@@ -39,7 +39,7 @@ Please feel free to contact me at [zyzheng@whu.edu.cn](mailto:zyzheng@whu.edu.cn
 
 # 📖 Education
 
-- **Wuhan University**, M.S. in Computer Technology 2025.09 - 2027.06 (expected)
+- **Wuhan University**, M.S. in Computer Technology, 2025.09 - 2027.06 (expected)
 - **Wuhan University**, B.Eng. in Computer Science and Technology, 2021.09 - 2025.06
 
 # 🎖 Honors
