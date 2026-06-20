@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign scholarStatsUrl = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
 I am an M.S. student in Computer Technology at **Wuhan University**, advised by [Prof. Lefei Zhang](https://scholar.google.com/citations?user=BLKHwNwAAAAJ). I received my B.Eng. in Computer Science and Technology from Wuhan University in 2025.
 
 My research centers on **generative planning, decision-making, and vision foundation models**, with experience in autonomous driving and multimodal perception. I am particularly interested in embodied AI, vision-language-action (VLA) models, diffusion policies, reinforcement learning, and world models that enable capable perception, reasoning, and action in embodied agents.
 
-Please feel free to contact me at [zyzheng@whu.edu.cn](mailto:zyzheng@whu.edu.cn). My latest publications are also available on [Google Scholar](https://scholar.google.com/citations?user=zyN6ekkAAAAJ).
+Please feel free to contact me!
 
 # 🔥 News
 
