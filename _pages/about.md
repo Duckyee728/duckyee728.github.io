@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an M.S. student in Computer Technology at **Wuhan University**, advised by Prof. Lefei Zhang. I received my B.Eng. in Computer Science and Technology from Wuhan University in 2025.
+I am an M.S. student in Computer Technology at **Wuhan University**, advised by [Prof. Lefei Zhang](https://scholar.google.com/citations?user=BLKHwNwAAAAJ). I received my B.Eng. in Computer Science and Technology from Wuhan University in 2025.
 
 My research centers on **generative planning, decision-making, and vision foundation models**, with experience in autonomous driving and multimodal perception. I am particularly interested in embodied AI, vision-language-action (VLA) models, diffusion policies, reinforcement learning, and world models that enable capable perception, reasoning, and action in embodied agents.
 
