@@ -21,9 +21,9 @@ Please feel free to contact me at [zyzheng@whu.edu.cn](mailto:zyzheng@whu.edu.cn
 - *2026*: **ResAD** was accepted to CVPR 2026.
 - *2025*: **UniRS** was accepted to IEEE Transactions on Geoscience and Remote Sensing (TGRS).
 
-# 📝 Publications
+<!-- # 📝 Publications -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -35,16 +35,12 @@ Please feel free to contact me at [zyzheng@whu.edu.cn](mailto:zyzheng@whu.edu.cn
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 📖 Education
 
-- **M.S. in Computer Technology**, September 2025 - June 2027 (expected)
-  - Advisor: Prof. Lefei Zhang
-  <!-- - GPA: 92.8/100 -->
-  - Research interests: VLA models, embodied AI, diffusion policy, and vision foundation models
-- **B.Eng. in Computer Science and Technology**, September 2021 - June 2025
-  <!-- - GPA: 3.81/4.0 (89.31/100) -->
+- **Wuhan University**, M.S. in Computer Technology 2025.09 - 2027.06 (expected)
+- **Wuhan University**, B.Eng. in Computer Science and Technology, 2021.09 - 2025.06
 
 # 🎖 Honors
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyu Zheng"
-description              : "M.S. student at Wuhan University working on embodied AI, generative planning, autonomous driving, and vision-language-action models."
+# description              : "M.S. student at Wuhan University working on embodied AI, generative planning, autonomous driving, and vision-language-action models."
 repository               : "Duckyee728/duckyee728.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/zhiyu-zheng.png"
   bio              : "M.S. Student at Wuhan University"
   location         : "Wuhan, China"
-  employer         : "Wuhan University"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zyN6ekkAAAAJ"
   email            : "zyzheng@whu.edu.cn"
